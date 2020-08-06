@@ -9,7 +9,7 @@ const todoItems = [
         id:3, completed: false, text: 'Get the kids a new bike'
     },
     {
-        id:4, completed: false, text: 'Learn React'
+        id:4, completed: true, text: 'Learn React'
     },
     {
         id:5, completed: false, text: 'Get a sweet web-dev job'
